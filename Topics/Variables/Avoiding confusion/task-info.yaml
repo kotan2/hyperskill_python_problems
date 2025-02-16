@@ -1,10 +1,10 @@
 type: choice
 is_multiple_choice: true
 options:
-  - text: del = "delete"
-  - text: print(return)
-  - text: print("del")
   - text: from = "Dhaka"
+  - text: print(return)
+  - text: del = "delete"
+  - text: print("del")
 files:
   - name: main.py
     visible: true

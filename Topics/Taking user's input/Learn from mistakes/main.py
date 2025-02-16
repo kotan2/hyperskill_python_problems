@@ -1,3 +1,3 @@
-age = input(Enter your age:)
-print()
+print("Enter your age:")
+input_age = input()
 print("Your age is " + input_age)
