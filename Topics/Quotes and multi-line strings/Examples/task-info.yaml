@@ -1,0 +1,11 @@
+type: unsupported
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/38428#comment
+status: Unchecked
+feedback:
+  message: Solution is not found on Hyperskill. Solve the task in browser first
+  time: "Tue, 18 Feb 2025 20:05:25 UTC"
+record: -1
